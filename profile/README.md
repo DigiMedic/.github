@@ -1,5 +1,3 @@
-# 👋 Vítejte u DigiMedic!
-
 <img src="https://i.ibb.co/GnD4Vfx/logo-320x132.png" alt="logo-320x132" border="0">
 
 DigiMedic, organizace se zaměřuje na poskytování dostupných a moderních technologických řešení pro zlepšení zdravotní péče v České republice. Naším hlavním cílem je efektivně využít technologie pro zlepšení kvality a dostupnosti zdravotní péče. Snažíme se naplňovat tuto vizi prostřednictvím řady projektů a iniciativ, které se zaměřují na digitalizaci a automatizaci procesů ve zdravotnictví.
