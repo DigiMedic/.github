@@ -1,8 +1,10 @@
 # 👋 Vítejte v DigiMedic!
 <img src="https://i.ibb.co/GnD4Vfx/logo-320x132.png" alt="logo-320x132" border="0">
+DigiMedic je organizace založená Petrem Sovadinou, která se zaměřuje na moderní technologická řešení pro zdravotní péči v České republice. Naším cílem je vylepšit dostupnost a kvalitu zdravotní péče pomocí technologií.
 
-DigiMedic je přední česká organizace v oblasti IT a zdravotnictví. Zaměřujeme se na vývoj a implementaci pokročilých softwarových řešení, která zlepšují péči o pacienty a efektivitu zdravotnických zařízení.
+S ohledem na nedostatečnou infrastrukturu IT sektoru ve zdravotnictví České republiky a současnou neinformovanost v tomto sektoru jsme se rozhodli změnit náš směr. Namísto vytváření komerční platformy se soustředíme na vytvoření open-source rámce, který bude základem pro funkční a interoperabilní infrastrukturu.
 
+DigiMedic se snaží inovativně integrovat zdravotnictví a technologie, aby zlepšil péči o pacienty prostřednictvím moderních technologií v lékařské praxi.
 ## Naše aktuální projekty
 
 ### DigiMedic Future (open healthcare Czech Republic)
