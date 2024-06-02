@@ -1,33 +1,35 @@
-# 👋 Vítejte v DigiMedic!
-<img src="https://i.ibb.co/GnD4Vfx/logo-320x132.png" alt="logo-320x132" border="0">
-DigiMedic je organizace založená Petrem Sovadinou, která se zaměřuje na moderní technologická řešení pro zdravotní péči v České republice. Naším cílem je vylepšit dostupnost a kvalitu zdravotní péče pomocí technologií.
+# 👋 Vítejte u DigiMedic!
 
-S ohledem na nedostatečnou infrastrukturu IT sektoru ve zdravotnictví České republiky a současnou neinformovanost v tomto sektoru jsme se rozhodli změnit náš směr. Namísto vytváření komerční platformy se soustředíme na vytvoření open-source rámce, který bude základem pro funkční a interoperabilní infrastrukturu.
+![Logo DigiMedic](https://i.ibb.co/GnD4Vfy/logo-320x132.png)
 
-DigiMedic se snaží inovativně integrovat zdravotnictví a technologie, aby zlepšil péči o pacienty prostřednictvím moderních technologií v lékařské praxi.
-## Naše aktuální projekty
+DigiMedic, organizace se zaměřuje na poskytování dostupných a moderních technologických řešení pro zlepšení zdravotní péče v České republice. Naším hlavním cílem je efektivně využít technologie pro zlepšení kvality a dostupnosti zdravotní péče. Snažíme se naplňovat tuto vizi prostřednictvím řady projektů a iniciativ, které se zaměřují na digitalizaci a automatizaci procesů ve zdravotnictví.
+DigiMedic je průkopníkem v oblasti integrace zdravotnictví a technologií v České republice. Zaměřuje se na zlepšování péče o pacienty prostřednictvím zavádění moderních technologií do lékařské praxe.
+
+## Co máme právě rozdělané
 
 ### DigiMedic Future (open healthcare Czech Republic)
-Projekt zaměřený na implementaci open-source platformy Medplum do českého zdravotnického systému. Integrací této platformy chceme zefektivnit zdravotní péči a podpořit inovace ve zdravotnictví.
+Tento projekt má za cíl přivést open-source platformu Medplum do českého zdravotnictví. Věříme, že její integrací dosáhneme efektivity a podpoříme inovace ve zdravotnických zařízeních.
 
 ### AIHDS
-Platforma pro strukturování dat ve zdravotnictví, která umožňuje efektivní správu a analýzu těchto dat.
+Náš další skvělý projekt zaměřený na strukturování dat ve zdravotnictví. AIHDS pomáhá efektivněji spravovat a analyzovat zdravotnická data, což je klíčové pro lepší rozhodování a zlepšení péče.
 
-## Ostatní projekty
+## Na čem ještě pracujeme
 
-Kromě našich hlavních projektů pracujeme také na dalších zajímavých projektech, které jsou momentálně v různých fázích vývoje:
+Pracujeme na dalších skvělých projektech, které jsou momentálně v různých fázích vývoje:
 
-- **Nutri DigiMedic AI:** Pokročilá platforma pro analýzu a plánování výživy pomocí umělé inteligence.
-- **PillSee:** Inovativní řešení pro správu a připomínání léků pacientům.
-- **MedRecTech:** Řešení pro spravování lékařských záznamů a jejich integraci do jednoho systému.
-- **Naše služba:** Zvyšujeme efektivitu lékařských prohlídek pomocí našich technologií.
-- **Benjamin telefonní asistent:** Automatizovaný asistentský systém pro zdravotnické zařízení.
-- **CareAlert:** Automatizace zvání na prohlídky, která zajišťuje, že pacienti nezmeškají své termíny.
+- **Nutri DigiMedic AI:** Vyvíjíme pokročilou platformu pro analýzu a plánování výživy pomocí AI.
+- **PillSee:** Inovativní řešení pro správu a připomínání léků, které pomáhá pacientům nezapomenout na své léky.
+- **MedRecTech:** Řešení pro efektivní správu lékařských záznamů a jejich propojení do jednoho systému.
+- **Naše služba:** Zaměřujeme se na zvýšení efektivity lékařských prohlídek pomocí našich technologií.
+- **Benjamin telefonní asistent:** Automatizovaný telefonní asistent pro zdravotnická zařízení.
+- **CareAlert:** Automatizace zvání na prohlídky, která pacientům zajišťuje, že nezmeškají své termíny.
 
-## Jak se zapojit
-Máte zájem se k nám připojit nebo přispět k našim projektům? Skvělé! Můžete začít tím, že si vyberete projekt, a podíváte se do příslušného repozitáře. Příspěvky jsou vítány v různých formách – od hlášení chyb a žádostí o nové funkce až po přímé příspěvky kódu.
+## Chcete se zapojit?
+Pokud vás naše práce zaujala a máte chuť se připojit, jste vítáni! Podívejte se na naše projekty a najděte si, kde můžete přispět - ať už hlášením chyb, nápady na nové funkce nebo přímým přispěním kódu.
 
-## Užitečné zdroje
-- [DigiMedic Web](http://www.digimedic.cz)
-- [Kontakt](https://linktr.ee/petrsovadina))
+## Kde nás najdete
+- [Náš web](http://www.digimedic.cz)
 
+---
+
+Máte další otázky nebo nápady? Neváhejte mě kontaktovat 👉🏻 [Kontakt](https://linktr.ee/petrsovadina)
