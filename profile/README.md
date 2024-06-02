@@ -1,4 +1,5 @@
 # 👋 Vítejte v DigiMedic!
+<img src="https://i.ibb.co/GnD4Vfx/logo-320x132.png" alt="logo-320x132" border="0">
 
 DigiMedic je přední česká organizace v oblasti IT a zdravotnictví. Zaměřujeme se na vývoj a implementaci pokročilých softwarových řešení, která zlepšují péči o pacienty a efektivitu zdravotnických zařízení.
 
@@ -26,14 +27,5 @@ Máte zájem se k nám připojit nebo přispět k našim projektům? Skvělé! M
 
 ## Užitečné zdroje
 - [DigiMedic Web](http://www.digimedic.cz)
-- [Kontakt](mailto:info@digimedic.cz)
-- Dokumentace na jednotlivých repozitářích obsahuje podrobné instrukce a návody.
-
-## Fakta o týmu
-- **Lokace:** Česká republika
-- **Snídaně:** Vše od cereálií po tradiční české snídaně :-).
-
----
-
-Nezapomeňte využít sílu [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)!
+- [Kontakt](https://linktr.ee/petrsovadina))
 
