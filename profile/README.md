@@ -21,6 +21,8 @@ Pracujeme na dalších skvělých projektech, které jsou momentálně v různý
 - **Naše služba:** Zaměřujeme se na zvýšení efektivity lékařských prohlídek pomocí našich technologií.
 - **Benjamin telefonní asistent:** Automatizovaný telefonní asistent pro zdravotnická zařízení.
 - **CareAlert:** Automatizace zvání na prohlídky, která pacientům zajišťuje, že nezmeškají své termíny.
+- **Ask EHDS:** MedAI Asistent je navržen tak, aby podporoval zdravotnické odborníky v procesu elektronizace zdravotnictví, zlepšoval jejich informovanost o EHDS (European Health Data Space) a poskytoval asistenci při otázkách kybernetické bezpečnosti.
+
 
 ## Chcete se zapojit?
 Pokud vás naše práce zaujala a máte chuť se připojit, jste vítáni! Podívejte se na naše projekty a najděte si, kde můžete přispět - ať už hlášením chyb, nápady na nové funkce nebo přímým přispěním kódu.
