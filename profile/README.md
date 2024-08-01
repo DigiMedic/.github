@@ -2,11 +2,19 @@
 
 # 👋 Vítejte v DigiMedic
 
-**DigiMedic** přináší digitální transformaci do zdravotnictví pomocí inovativních technologií a umělé inteligence.
+**DigiMedic** je přední organizace zaměřená na poskytování moderních technologických řešení pro zlepšení zdravotní péče v České republice. Naším hlavním cílem je efektivně využívat technologie ke zvýšení kvality a dostupnosti zdravotnické péče. Tuto vizi naplňujeme prostřednictvím řady projektů a iniciativ, které se zaměřují na transformaci zdravotnictví.
 
 ---
 
-## 🚀 Naše projekty
+## 🌟 Naše oblasti zaměření
+
+| ![Developer](https://img.icons8.com/ios-filled/50/000000/developer.png) **DigiMedic-developer** | ![Hub](https://img.icons8.com/ios-filled/50/000000/blog.png) **DigiMedic-hub/blog** | ![Support](https://img.icons8.com/ios-filled/50/000000/customer-support.png) **DigiMedic-podpora** |
+|:----------------------:|:-----------------:|:------------------:|
+| Vytváříme inovativní a efektivní řešení pro lékařské praxe, které zlepšují péči o pacienty a šetří čas zdravotnických pracovníků. | Vyvíjíme blog a hub jako platformu pro sdílení novinek a článků ze zdravotnictví a moderních technologií, budujeme komunitu zájemců. | Zaměřujeme se na propojení moderních technologií a zdravotnictví, zpřístupňujeme nejnovější technologické inovace a poskytujeme nezávislé poradenství. |
+
+---
+
+## 🚀 Naše klíčové projekty
 
 | Projekt | Popis |
 |---------|-------|
@@ -31,6 +39,3 @@
 ## 🏥 Naše Digitální Páteř
 
 ![Digitální Páteř](https://github.com/DigiMedic/.github/blob/17c96cb2890ab291cd6bbce46e3459122018ce8e/digitalni%20pater.png)
-
----
-
