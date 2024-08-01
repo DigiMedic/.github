@@ -8,7 +8,7 @@
 
 ## 🌟 Naše oblasti zaměření
 
-| ![Developer](https://img.icons8.com/ios-filled/50/000000/developer.png) **DigiMedic-developer** | ![Hub](https://img.icons8.com/ios-filled/50/000000/blog.png) **DigiMedic-hub/blog** | ![Support](https://img.icons8.com/ios-filled/50/000000/customer-support.png) **DigiMedic-podpora** |
+| <img src="https://lucide.dev/icons/code.svg" width="24" height="24"> **DigiMedic-developer** | <img src="https://lucide.dev/icons/globe.svg" width="24" height="24"> **DigiMedic-hub/blog** | <img src="https://lucide.dev/icons/help-circle.svg" width="24" height="24"> **DigiMedic-podpora** |
 |:----------------------:|:-----------------:|:------------------:|
 | Vytváříme inovativní a efektivní řešení pro lékařské praxe, které zlepšují péči o pacienty a šetří čas zdravotnických pracovníků. | Vyvíjíme blog a hub jako platformu pro sdílení novinek a článků ze zdravotnictví a moderních technologií, budujeme komunitu zájemců. | Zaměřujeme se na propojení moderních technologií a zdravotnictví, zpřístupňujeme nejnovější technologické inovace a poskytujeme nezávislé poradenství. |
 
@@ -39,3 +39,5 @@
 ## 🏥 Naše Digitální Páteř
 
 ![Digitální Páteř](https://github.com/DigiMedic/.github/blob/17c96cb2890ab291cd6bbce46e3459122018ce8e/digitalni%20pater.png)
+
+---
