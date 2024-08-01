@@ -1,64 +1,28 @@
 # 👋 Vítejte v DigiMedic
 
-**DigiMedic** je přední organizace zaměřená na modernizaci zdravotní péče pomocí inovativních technologických řešení. Naším cílem je zvýšit efektivitu a kvalitu zdravotnických služeb v České republice prostřednictvím digitálních nástrojů a umělé inteligence.
+**DigiMedic** přináší digitální transformaci do zdravotnictví pomocí inovativních technologií a umělé inteligence.
 
 ---
 
-## 🚀 Naše klíčové projekty
+## 🚀 Naše projekty
 
-### 1. DigiMedic-EHR
-- **Elektronický zdravotní záznamový systém**
-- **Cíl:** Zjednodušení správy a sdílení pacientských dat
-- [📂 Zobrazit repozitář](https://github.com/DigiMedic/DigiMedic-EHR)
-
----
-
-### 2. DigiMedic-FHIR-Backend
-- **Platforma založená na FHIR standardu**
-- **Cíl:** Bezpečná výměna zdravotnických dat a interoperabilita
-- [📂 Zobrazit repozitář](https://github.com/DigiMedic/DigiMedic-FHIR-Backend)
-
----
-
-### 3. AI-FHIR
-- **Strukturování dat ve zdravotnictví**
-- **Cíl:** Podpora bezpečné výměny dat a zlepšení interoperability
-- [📂 Zobrazit repozitář](https://github.com/DigiMedic/AI-FHIR)
-
----
-
-### 4. Ask-EHDS
-- **MedAI Asistent pro zdravotnické odborníky**
-- **Cíl:** Elektronizace zdravotnictví a informovanost o EHDS
-- [📂 Zobrazit repozitář](https://github.com/DigiMedic/Ask-EHDS)
-
----
-
-### 5. Medplum
-- **Fork platformy Medplum**
-- **Použití:** Základ pro EHR a FHIR infrastrukturu
-- **Cíl:** Vývoj kvalitních zdravotnických aplikací
-- [📂 Zobrazit repozitář](https://github.com/DigiMedic/medplum)
-
----
-
-### 6. Foomedical
-- **SDK modul pro integraci s naším backendem a EHR systémem**
-- **Funkce:**
-  - Efektivní správa pacientských dat
-  - Plánování schůzek
-  - Komunikace s pacienty
-- **Cíl:** Vytvoření interoperabilní a zabezpečené zdravotnické platformy
-- [📂 Zobrazit repozitář](https://github.com/DigiMedic/foomedical)
+| Projekt | Popis | Odkaz |
+|---------|-------|-------|
+| **[DigiMedic-EHR](https://github.com/DigiMedic/DigiMedic-EHR)** | Elektronický systém zdravotních záznamů pro efektivní správu pacientských dat. | [Repozitář](https://github.com/DigiMedic/DigiMedic-EHR) |
+| **[DigiMedic-FHIR-Backend](https://github.com/DigiMedic/DigiMedic-FHIR-Backend)** | Backend pro bezpečnou výměnu zdravotnických dat pomocí FHIR standardu. | [Repozitář](https://github.com/DigiMedic/DigiMedic-FHIR-Backend) |
+| **[AI-FHIR](https://github.com/DigiMedic/AI-FHIR)** | Podpora interoperability a strukturování zdravotnických dat. | [Repozitář](https://github.com/DigiMedic/AI-FHIR) |
+| **[Ask-EHDS](https://github.com/DigiMedic/Ask-EHDS)** | Asistent pro zdravotnické odborníky zaměřený na EHDS a kybernetickou bezpečnost. | [Repozitář](https://github.com/DigiMedic/Ask-EHDS) |
+| **[Medplum](https://github.com/DigiMedic/medplum)** | Základ pro infrastrukturu EHR a FHIR aplikací. | [Repozitář](https://github.com/DigiMedic/medplum) |
+| **[Foomedical](https://github.com/DigiMedic/foomedical)** | SDK modul pro integraci se systémy EHR; zahrnuje správu dat a komunikaci s pacienty. | [Repozitář](https://github.com/DigiMedic/foomedical) |
 
 ---
 
 ## 📞 Kontaktujte nás
 
-- **🌐 Webové stránky:** [www.digimedic.cz](https://www.digimedic.cz)
-- **🔗 LinkedIn:** [DigiMedic LinkedIn](https://www.linkedin.com/company/digimedi-cz/)
-- **🐦 Twitter:** [DigiMedic Twitter](https://twitter.com/digimedic)
-- **✉️ E-mail:** [info@digimedic.cz](mailto:info@digimedic.cz)
+[![Web](https://img.shields.io/badge/Web-digimedic.cz-blue)](https://www.digimedic.cz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DigiMedic-blue)](https://www.linkedin.com/company/digimedi-cz/)
+[![Twitter](https://img.shields.io/badge/Twitter-@digimedic-blue)](https://twitter.com/digimedic)
+[![Email](https://img.shields.io/badge/Email-info@digimedic.cz-blue)](mailto:info@digimedic.cz)
 
 ---
 
