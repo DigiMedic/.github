@@ -8,7 +8,7 @@
 
 ## 🌟 Naše oblasti zaměření
 
-| <img src="https://raw.githubusercontent.com/lucide-icons/lucide/master/icons/code.svg" width="24" height="24"> **DigiMedic-developer** | <img src="https://raw.githubusercontent.com/lucide-icons/lucide/master/icons/globe.svg" width="24" height="24"> **DigiMedic-hub/blog** | <img src="https://raw.githubusercontent.com/lucide-icons/lucide/master/icons/help-circle.svg" width="24" height="24"> **DigiMedic-podpora** |
+| <img src="https://raw.githubusercontent.com/lucide-icons/lucide/master/icons/code.svg" width="24" height="24"> **DigiMedic-developer** | <img src="https://raw.githubusercontent.com/lucide-icons/lucide/master/icons/globe.svg" width="24" height="24"> **DigiMedic-hub/blog** | <img src="https://raw.githubusercontent.com/lucide-icons/lucide/master/icons/life-buoy.svg" width="24" height="24"> **DigiMedic-podpora** |
 |:----------------------:|:-----------------:|:------------------:|
 | Vytváříme inovativní a efektivní řešení pro lékařské praxe, které zlepšují péči o pacienty a šetří čas zdravotnických pracovníků. | Vyvíjíme blog a hub jako platformu pro sdílení novinek a článků ze zdravotnictví a moderních technologií, budujeme komunitu zájemců. | Zaměřujeme se na propojení moderních technologií a zdravotnictví, zpřístupňujeme nejnovější technologické inovace a poskytujeme nezávislé poradenství. |
 
