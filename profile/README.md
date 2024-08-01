@@ -1,31 +1,43 @@
 # 👋 Vítejte v DigiMedic
 
-**DigiMedic** je organizace zaměřená na poskytování moderních technologických řešení pro zlepšení zdravotní péče v České republice. Naše projekty využívají umělou inteligenci a digitální nástroje k transformaci zdravotnictví a podpoře zdravotnických odborníků.
+**DigiMedic** je organizace zaměřená na modernizaci zdravotní péče prostřednictvím inovativních technologií. Naším cílem je zlepšit efektivitu a kvalitu zdravotnických služeb v České republice pomocí digitálních nástrojů a umělé inteligence.
 
 ## Naše projekty
 
-### [DigiMedic-EHR](https://github.com/DigiMedic/DigiMedic-EHR)
-Elektronický zdravotní záznamový systém navržený pro efektivní správu a sdílení pacientských dat. Tento systém zjednodušuje přístup k lékařským záznamům a zlepšuje komunikaci mezi zdravotnickými odborníky.
+### 1. DigiMedic-EHR
+- **Popis:** Elektronický zdravotní záznamový systém.
+- **Cíl:** Zlepšení správy a sdílení pacientských dat.
+- **Odkaz:** [DigiMedic-EHR Repository](https://github.com/DigiMedic/DigiMedic-EHR)
 
-### [DigiMedic-FHIR-Backend](https://github.com/DigiMedic/DigiMedic-FHIR-Backend)
-Backend platforma založená na standardu FHIR (Fast Healthcare Interoperability Resources) umožňuje bezpečnou výměnu zdravotnických dat mezi systémy a zajišťuje interoperabilitu v rámci zdravotnického ekosystému.
+### 2. DigiMedic-FHIR-Backend
+- **Popis:** Backend platforma založená na FHIR standardu.
+- **Cíl:** Bezpečná výměna zdravotnických dat a interoperabilita.
+- **Odkaz:** [DigiMedic-FHIR-Backend Repository](https://github.com/DigiMedic/DigiMedic-FHIR-Backend)
 
-### [AI-FHIR](https://github.com/DigiMedic/AI-FHIR)
-Platforma pro strukturování dat ve zdravotnictví pomocí FHIR, která podporuje bezpečnou výměnu dat a zlepšuje interoperabilitu mezi zdravotnickými systémy.
+### 3. AI-FHIR
+- **Popis:** Platforma pro strukturování dat ve zdravotnictví.
+- **Cíl:** Podpora bezpečné výměny dat a zlepšení interoperability.
+- **Odkaz:** [AI-FHIR Repository](https://github.com/DigiMedic/AI-FHIR)
 
-### [Ask-EHDS](https://github.com/DigiMedic/Ask-EHDS)
-MedAI Asistent pro zdravotnické odborníky, který pomáhá s elektronizací zdravotnictví, informovaností o EHDS (European Health Data Space) a poskytuje podporu v otázkách kybernetické bezpečnosti.
+### 4. Ask-EHDS
+- **Popis:** MedAI Asistent pro zdravotnické odborníky.
+- **Cíl:** Elektronizace zdravotnictví a informovanost o EHDS.
+- **Odkaz:** [Ask-EHDS Repository](https://github.com/DigiMedic/Ask-EHDS)
 
-### [Medplum](https://github.com/DigiMedic/medplum)
-Tento projekt je fork platformy Medplum, kterou využíváme jako základ pro naši infrastrukturu EHR a FHIR backend. Tímto způsobem můžeme rychle vyvíjet vysoce kvalitní zdravotnické aplikace, které splňují moderní standardy interoperability a datové výměny.
+### 5. Medplum
+- **Popis:** Fork platformy Medplum pro naši EHR a FHIR infrastrukturu.
+- **Cíl:** Vývoj kvalitních zdravotnických aplikací.
+- **Odkaz:** [Medplum Repository](https://github.com/DigiMedic/medplum)
 
-### [Foomedical](https://github.com/DigiMedic/foomedical)
-**Foomedical** je SDK modul navržený pro integraci s naším backendem a systémem EHR. Poskytuje komplexní šablonu pro vývoj webových aplikací určených poskytovatelům zdravotnických služeb. Zaměřuje se na efektivní správu pacientských dat, plánování schůzek a komunikaci s pacienty. Díky své flexibilitě a přizpůsobitelnosti usnadňuje integraci různých zdravotnických modulů a funkcí, čímž umožňuje vytvoření plnohodnotné, interoperabilní a zabezpečené zdravotnické platformy.
+### 6. Foomedical
+- **Popis:** SDK modul pro integraci s naším backendem a EHR systémem.
+- **Cíl:** Vytvoření interoperabilní a zabezpečené zdravotnické platformy.
+- **Funkce:** Správa pacientských dat, plánování schůzek, komunikace s pacienty.
+- **Odkaz:** [Foomedical Repository](https://github.com/DigiMedic/foomedical)
 
-## Spojte se s námi
+## Kontaktujte nás
 
-- [Webové stránky](https://www.digimedic.cz)
-- [LinkedIn](https://www.linkedin.com/company/digimedi-cz/)
-- [Twitter](https://twitter.com/digimedic)
-- [Kontakt: info@digimedic.cz](mailto:info@digimedic.cz)
-
+- **Webové stránky:** [www.digimedic.cz](https://www.digimedic.cz)
+- **LinkedIn:** [DigiMedic LinkedIn](https://www.linkedin.com/company/digimedi-cz/)
+- **Twitter:** [DigiMedic Twitter](https://twitter.com/digimedic)
+- **E-mail:** [info@digimedic.cz](mailto:info@digimedic.cz)
