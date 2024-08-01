@@ -1,6 +1,6 @@
 # ![Logo DigiMedic](https://github.com/DigiMedic/.github/blob/17c96cb2890ab291cd6bbce46e3459122018ce8e/logo%20lone%20backgroubnd.png)
 
-# 👋 Vítejte v 🩵 DigiMedic
+# 👋 Vítejte v DigiMedic
 
 **DigiMedic** je přední organizace zaměřená na poskytování moderních technologických řešení pro zlepšení zdravotní péče v České republice. Naším hlavním cílem je efektivně využívat technologie ke zvýšení kvality a dostupnosti zdravotnické péče. Tuto vizi naplňujeme prostřednictvím řady projektů a iniciativ, které se zaměřují na transformaci zdravotnictví.
 
@@ -8,7 +8,7 @@
 
 ## 🌟 Naše oblasti zaměření
 
-| <img src="https://lucide.dev/icons/code.svg" width="24" height="24"> **DigiMedic-developer** | <img src="https://lucide.dev/icons/globe.svg" width="24" height="24"> **DigiMedic-hub/blog** | <img src="https://lucide.dev/icons/help-circle.svg" width="24" height="24"> **DigiMedic-podpora** |
+| <img src="https://raw.githubusercontent.com/lucide-icons/lucide/master/icons/code.svg" width="24" height="24"> **DigiMedic-developer** | <img src="https://raw.githubusercontent.com/lucide-icons/lucide/master/icons/globe.svg" width="24" height="24"> **DigiMedic-hub/blog** | <img src="https://raw.githubusercontent.com/lucide-icons/lucide/master/icons/help-circle.svg" width="24" height="24"> **DigiMedic-podpora** |
 |:----------------------:|:-----------------:|:------------------:|
 | Vytváříme inovativní a efektivní řešení pro lékařské praxe, které zlepšují péči o pacienty a šetří čas zdravotnických pracovníků. | Vyvíjíme blog a hub jako platformu pro sdílení novinek a článků ze zdravotnictví a moderních technologií, budujeme komunitu zájemců. | Zaměřujeme se na propojení moderních technologií a zdravotnictví, zpřístupňujeme nejnovější technologické inovace a poskytujeme nezávislé poradenství. |
 
