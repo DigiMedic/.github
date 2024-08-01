@@ -27,16 +27,12 @@
 
 ---
 
-## 📞 Kontaktujte nás
-
 [![Web](https://img.shields.io/badge/Web-digimedic.cz-blue)](https://www.digimedic.cz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DigiMedic-blue)](https://www.linkedin.com/company/digimedi-cz/)
 [![Twitter](https://img.shields.io/badge/Twitter-@digimedic-blue)](https://twitter.com/digimedic)
 [![Email](https://img.shields.io/badge/Email-info@digimedic.cz-blue)](mailto:info@digimedic.cz)
 
 ---
-
-## 🏥 Naše Digitální Páteř
 
 ![Digitální Páteř](https://github.com/DigiMedic/.github/blob/17c96cb2890ab291cd6bbce46e3459122018ce8e/digitalni%20pater.png)
 
