@@ -1,6 +1,6 @@
 # ![Logo DigiMedic](https://github.com/DigiMedic/.github/blob/17c96cb2890ab291cd6bbce46e3459122018ce8e/logo%20lone%20backgroubnd.png)
 
-# 👋 Vítejte v DigiMedic
+# 👋 Vítejte v 🩵 DigiMedic
 
 **DigiMedic** je přední organizace zaměřená na poskytování moderních technologických řešení pro zlepšení zdravotní péče v České republice. Naším hlavním cílem je efektivně využívat technologie ke zvýšení kvality a dostupnosti zdravotnické péče. Tuto vizi naplňujeme prostřednictvím řady projektů a iniciativ, které se zaměřují na transformaci zdravotnictví.
 
